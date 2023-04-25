@@ -1,0 +1,5 @@
+Criação do Servidor
+- mkdir servidor
+- cd servidor
+- npm init -y
+- npm i express body-parser cors dotenv helmet morgan mongoose mongodb nodemon
