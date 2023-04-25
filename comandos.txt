@@ -3,3 +3,6 @@ Criação do Servidor
 - cd servidor
 - npm init -y
 - npm i express body-parser cors dotenv helmet morgan mongoose mongodb nodemon
+
+Criação do App Cliente
+- npx create-react-app cliente
